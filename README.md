@@ -1,4 +1,4 @@
-# 🌌 Retro Space Portfolio - Ibrahim Irfan's Space Observatory 🔭
+# 🌌 Retro Space Portfolio - Laiba Sultan's Space Observatory 🔭
 
 Welcome to **Laiba Sultan's Digital Space Observatory**, a retro-futuristic, cosmic-themed personal portfolio website. This immersive web interface is designed to showcase projects, tech skills, and a contact terminal — all styled in a deep space aesthetic with glowing stars, floating particles, and a galactic vibe.
 
